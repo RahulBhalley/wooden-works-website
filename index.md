@@ -54,7 +54,7 @@ title: Home
   <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
     {% for item in site.data.gallery %}
       <div class="relative group">
-        <img src="{{ item.image }}"
+        <img src="{{ item.image | relative_url }}"
              alt="{{ item.title }}"
              class="rounded shadow w-full object-cover">
         <!-- Overlay for text -->
