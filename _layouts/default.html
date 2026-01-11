@@ -14,6 +14,38 @@
     html {
       scroll-behavior: smooth;
     }
+    
+    /* Mobile-specific adjustments */
+    @media (max-width: 768px) {
+      /* Ensure proper viewport scaling */
+      body {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      
+      /* Better touch targets for mobile */
+      button, a {
+        min-height: 44px;
+        min-width: 44px;
+      }
+      
+      /* Prevent horizontal scroll */
+      * {
+        max-width: 100%;
+        box-sizing: border-box;
+      }
+      
+      /* Better spacing for mobile */
+      .section-padding {
+        padding: 2rem 1rem;
+      }
+    }
+    
+    /* Improve image loading */
+    img {
+      max-width: 100%;
+      height: auto;
+    }
   </style>
 </head>
 <body class="bg-white text-gray-900">
