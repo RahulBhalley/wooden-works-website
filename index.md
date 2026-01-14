@@ -9,10 +9,10 @@ title: Home
   
   <div class="max-w-4xl mx-auto px-4 text-center relative z-10">
     <h2 class="hero-title text-4xl sm:text-5xl md:text-5xl font-serif mb-4 md:mb-6 text-white">
-      Handcrafted Wooden Furniture
+      Premium Interior Design Solutions
     </h2>
     <p class="hero-subtitle text-xl md:text-xl mb-6 md:mb-8 text-white">
-      Custom interiors, wardrobes, kitchens & furniture
+      Custom interiors, furniture & design excellence
     </p>
     <a href="#gallery"
        class="px-6 py-3 md:px-8 md:py-3 bg-black text-white hover:bg-gray-800 transition-colors text-base md:text-base">
@@ -158,30 +158,30 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="space-y-4">
       <div class="flex items-center justify-center space-x-2 md:space-x-3">
         <i class="fas fa-phone text-gray-600"></i>
-        <a href="tel:+1234567890" class="contact-text text-base md:text-lg hover:text-gray-600 transition-colors">+1 (234) 567-890</a>
+        <a href="tel:+91-8837676505" class="contact-text text-base md:text-lg hover:text-gray-600 transition-colors">+91-8837676505</a>
       </div>
       <div class="flex items-center justify-center space-x-2 md:space-x-3">
         <i class="fas fa-envelope text-gray-600"></i>
-        <a href="mailto:info@furniturecompany.com" class="contact-text text-base md:text-lg hover:text-gray-600 transition-colors">info@furniturecompany.com</a>
+        <a href="mailto:ageinteriors8482@gmail.com" class="contact-text text-base md:text-lg hover:text-gray-600 transition-colors">ageinteriors8482@gmail.com</a>
       </div>
     </div>
 
     <div class="pt-4 border-t border-gray-200">
       <!-- <p class="text-sm text-gray-600 mb-4">Follow Us</p> -->
       <div class="flex justify-center space-x-4 md:space-x-6">
-        <a href="https://www.facebook.com/woodenworks.online" class="text-gray-500 hover:text-blue-600 transition-colors" aria-label="Facebook">
+        <a href="https://www.facebook.com/ageinterior" class="text-gray-500 hover:text-blue-600 transition-colors" aria-label="Facebook">
           <i class="fab fa-facebook-f text-lg md:text-xl"></i>
         </a>
-        <a href="https://www.instagram.com/woodenworks.online" class="text-gray-500 hover:text-pink-600 transition-colors" aria-label="Instagram">
+        <a href="https://www.instagram.com/ageinterior" class="text-gray-500 hover:text-pink-600 transition-colors" aria-label="Instagram">
           <i class="fab fa-instagram text-lg md:text-xl"></i>
         </a>
-        <a href="https://www.twitter.com/woodenworks.online" class="text-gray-500 hover:text-blue-400 transition-colors" aria-label="Twitter">
+        <a href="https://www.twitter.com/ageinterior" class="text-gray-500 hover:text-blue-400 transition-colors" aria-label="Twitter">
           <i class="fab fa-twitter text-lg md:text-xl"></i>
         </a>
-        <a href="https://www.linkedin.com/company/woodenworks" class="text-gray-500 hover:text-blue-700 transition-colors" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/company/ageinterior" class="text-gray-500 hover:text-blue-700 transition-colors" aria-label="LinkedIn">
           <i class="fab fa-linkedin-in text-lg md:text-xl"></i>
         </a>
-        <a href="https://www.pinterest.com/woodenworks" class="text-gray-500 hover:text-red-600 transition-colors" aria-label="Pinterest">
+        <a href="https://www.pinterest.com/ageinterior" class="text-gray-500 hover:text-red-600 transition-colors" aria-label="Pinterest">
           <i class="fab fa-pinterest text-lg md:text-xl"></i>
         </a>
       </div>
