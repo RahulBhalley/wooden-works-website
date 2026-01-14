@@ -103,6 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const testimonials = carousel.children;
   let currentIndex = 0;
   let autoAdvanceInterval;
+  let intervalTime = 3500;
 
   function showTestimonial(index) {
     if (index < 0) index = testimonials.length - 1;
@@ -121,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function startAutoAdvance() {
-    autoAdvanceInterval = setInterval(nextTestimonial, 7500);
+    autoAdvanceInterval = setInterval(nextTestimonial, intervalTime);
   }
 
   function stopAutoAdvance() {
